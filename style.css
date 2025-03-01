@@ -308,7 +308,7 @@ nav div,#searchbar{
 #lyricscontainer{
     padding-top: 10px;
     position:relative;
-    left: -15%;
+    left: 15%;
     display:flex;
     flex-direction: column;
     max-width:545px;
